@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Generated QA captures (tools/check-pages.mjs, tools/tour.mjs)
+inspect/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
